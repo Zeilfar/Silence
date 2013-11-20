@@ -6,5 +6,8 @@
   "scripts": {
     "start": "echo \"Error: no start specified\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "restify": "~2.6.0"
   }
 }
