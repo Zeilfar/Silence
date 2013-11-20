@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "Rest framework",
   "author": "Zeil <far.vilain@gmail.com>",
-  "repository":{
-    "url":"Zeilfar/Silence"
+  "repository" : {
+    "type":"git",
+    "url": "git://github.com/Zeilfar/Silence.git"
   },
-  "directories": {
-    "lib": "./lib"
+  "engines": {
+    "node": "0.10.x",
+    "npm":  "1.2.x"
   },
   "main": "lib/server.js",
   "scripts": {
