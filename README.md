@@ -7,9 +7,9 @@ The Rest is Silence
 ------------
 
 ### Version 0.0.1
+** [1: Using nodeJS]
 
 ## Backlog
 ----------
-** [1: Using nodeJS]
 ** [2: Having runnable server]
 
