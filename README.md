@@ -7,6 +7,7 @@ The Rest is Silence
 ------------
 
 ### Version 0.0.1
+** [6: Body parser]
 ** [5: ContentHeaders]
 ** [4: Method not allowed]
 ** [3: Having full cors]
