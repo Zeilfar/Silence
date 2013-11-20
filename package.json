@@ -4,7 +4,10 @@
   "description": "Rest framework",
   "author": "Zeil <far.vilain@gmail.com>",
   "repository":{
-    "url":"https://github.com/Zeilfar/Silence.git"
+    "url":"Zeilfar/Silence"
+  },
+  "directories": {
+    "lib": "./lib"
   },
   "main": "lib/server.js",
   "scripts": {
